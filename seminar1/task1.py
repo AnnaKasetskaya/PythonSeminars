@@ -10,3 +10,4 @@ while number > 0:
     summa += number%10
     number //= 10
 print(summa)
+

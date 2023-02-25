@@ -19,3 +19,4 @@ if summ_left == summ_right:
     print("yes")
 else:
     print("no")
+    
